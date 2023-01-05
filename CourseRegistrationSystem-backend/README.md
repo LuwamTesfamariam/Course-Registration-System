@@ -3,8 +3,9 @@
 ## Technologies
 - Spring boot
 - SMTP Server (Gmail)
+- AWS S3 for cloud just if we can
 - JWT for security
-- H2 database
+- PostgreSQL.(AWS/docker) or H2 database
 - Kafka for messaging
 
 ## Must Have 
